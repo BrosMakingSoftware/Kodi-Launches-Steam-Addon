@@ -1,5 +1,8 @@
-1.0
+1.0.0
   - First Release
   - Main feature is to launch Steam from Kodi
-  - Settings to specify the executable for each OS
+  - Addon automatically detects were is the Steam installation if it is on a default Application/ProgramFiles location
+  - A custom location with the Steam executable can be provided by user
   - Setting to launch Steam in Big Picture (true by default)
+  - Setting to define the parameter used to start Big Picture Mode
+  - Settings to add extra parameters
