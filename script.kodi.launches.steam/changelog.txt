@@ -1,0 +1,5 @@
+1.0
+  - First Release
+  - Main feature is to launch Steam from Kodi
+  - Settings to specify the executable for each OS
+  - Setting to launch Steam in Big Picture (true by default)

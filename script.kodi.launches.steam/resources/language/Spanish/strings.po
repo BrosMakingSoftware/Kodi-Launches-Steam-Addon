@@ -1,0 +1,94 @@
+# Kodi Media Center language file
+# Addon Name: Kodi Launches Steam
+# Addon id: script.kodi.launches.steam
+# Addon Provider: iampeluca <diego.hernandez.perez.cr@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: script.kodi.launches.kodi\n"
+"Report-Msgid-Bugs-To: diego.hernandez.perez.cr@gmail.com\n"
+"POT-Creation-Date: 2017-01-29 19:30-0600\n"
+"PO-Revision-Date: 2017-01-29 19:50-0600\n"
+"Last-Translator: Diego Hernandez <diego.hernandez.perez.cr@gmail.com>\n"
+"Language-Team: Spanish <diego.hernandez.perez.cr@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);f\n"
+
+
+msgctxt "#32000"
+msgid "General"
+msgstr "General"
+
+
+msgctxt "#32001"
+msgid "Use custom executable:"
+msgstr "Usar ejecutable personalizado:"
+
+
+msgctxt "#32002"
+msgid "Custom Executable:"
+msgstr "Ejecutable personalizado:"
+
+
+msgctxt "#32003"
+msgid "Advanced"
+msgstr "Avanzado"
+
+
+msgctxt "#32004"
+msgid "Start Steam in Big Picture Mode:"
+msgstr "Iniciar Steam en modo Big Picture"
+
+msgctxt "#32005"
+msgid "Big Picture Mode parameter:"
+msgstr "Parámetro para modo Big Picture:"
+
+msgctxt "#32006"
+msgid "Use extra parameters:"
+msgstr "Usar parámetros extras:"
+
+msgctxt "#32007"
+msgid "Extra parameters:"
+msgstr "Parámetros extras:"
+
+msgctxt "#32008"
+msgid "Executable not found"
+msgstr "Ejecutable no encontrado"
+
+msgctxt "#32009"
+msgid "The Steam executable was not found on the default locations based on your System."
+msgstr "El ejecutable de Steam no fue encontrado en las ubicaciones por defecto basadas en su Sistema."
+
+msgctxt "#32010"
+msgid "Is Steam installed on your System?"
+msgstr "¿Está Steam instalado en su Sistema?"
+
+msgctxt "#32011"
+msgid "Please check if Steam is installed on your System before running this Addon. To get more information about installing Steam, go to http://store.steampowered.com"
+msgstr "Por favor verifique si Steam está instalado en su Sistema antes de usar este Addon. Para obtener más información sobre cómo instalar Steam, visite http://store.steampowered.com"
+
+msgctxt "#32014"
+msgid "Addon Settings"
+msgstr "Configuración del Addon"
+
+msgctxt "#32015"
+msgid "If you installed Steam but on a custom location, would you like to open the Addon Settings and specify that location?"
+msgstr "Si tienes Steam instalado pero en una ubicación personalizada, ¿Te gustaría abrir la Configuración del Addon y especificar esa ubicación?"
+
+msgctxt "#32016"
+msgid "Unknown System"
+msgstr "Sistema desconocido"
+
+msgctxt "#32017"
+msgid "This Addon is not able to find a Steam installation. Please consider to specify a custom location for it on the Addon Settings."
+msgstr "Este Addon no pudo encontrar una instalación de Steam. Por favor considere especificar una ubicación personalizada en la Configuración del Addon."
+
+msgctxt "#32018"
+msgid "Custom executable not found"
+msgstr "Ejecutable personalizado no encontrado"
+
+msgctxt "#32019"
+msgid "The custom executable was not found. Please specify a new location for it on the Addon Settings."
+msgstr "El ejecutable personalizado no se encontró. Por favor especifique una nueva ubicación en la Configuración del Addon."

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.kodi.launches.steam" name="Steam" version="1.0.0" provider-name="BrosMakingSoftware">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>linux windx osx</platform>
+		<summary lang="en">Kodi Launches Steam</summary>
+		<summary lang="es">Kodi Inicia Steam</summary>
+		<description lang="en">Addon for Kodi to launch Steam.[CR]Steam is the major online store for Windows, MacOS and Linux games and their related media. It also offers multiplayer and cross-platform gaming, in-home streaming, cloud saving, in-game voice and chat, achievements, VR, mods, hardware, devices and a huge and active gaming community. To install Steam, go to http://store.steampowered.com</description>
+		<description lang="es">Addon de Kodi para iniciar Steam.[CR]Steam es la mayor tienda en línea de juegos y sus medios relacionados para Windows, MacOS y Linux. Ofrece funciones de juego multijugador y multiplataforma, retransmisión en casa, guardados en la nube, voz y mensajería durante el juego, realidad virtual, mods para juegos, equipos, dispositivos y una inmensa y activa comunidad de jugadores. Para instalar Steam, visite http://store.steampowered.com</description>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<language>en es</language>
+		<source>https://github.com/BrosMakingSoftware/Kodi-Launches-Steam-Addon/</source>
+		<website>https://github.com/BrosMakingSoftware/Kodi-Launches-Steam-Addon/blob/master/README.md#kodi-launches-steam-addon</website>
+		<forum></forum>
+		<email>diego.hernandez.perez.cr@gmail.com</email>
+		<news></news>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/steam-screenshots/screenshot1.jpg</screenshot>
+			<screenshot>resources/steam-screenshots/screenshot2.jpg</screenshot>
+			<screenshot>resources/steam-screenshots/screenshot3.jpg</screenshot>
+			<screenshot>resources/steam-screenshots/screenshot4.jpg</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Selected.jpg</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Selected-Information.jpg</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Settings-1.jpg</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Settings-2.jpg</screenshot>
+		</assets>
+	</extension>
+</addon>

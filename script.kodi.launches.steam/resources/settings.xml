@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32000">
+        <setting id="useCustomExecutable" label="32001" type="bool" default="false"/>
+        <setting id="customExecutable" label="32002" type="executable" default="" subsetting="true" enable="eq(-1,true)"/>
+    </category>
+    <category label="32003">
+        <setting id="startSteamInBigPictureMode" label="32004" type="bool" default="true"/>
+        <setting id="bigPictureModeParameter" label="32005" type="text" default="steam://open/bigpicture" subsetting="true" enable="eq(-1,true)"/>
+        <setting type="sep"/>
+        <setting id="useExtraParameters" label="32006" type="bool" default="false"/>
+        <setting id="extraParameters" label="32007" type="text" default="" subsetting="true" enable="eq(-1,true)"/>
+    </category>
+</settings>
