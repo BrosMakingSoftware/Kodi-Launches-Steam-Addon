@@ -33,7 +33,7 @@ After that you need to install and configure Steam, to download Steam go to http
 #### Steps
 1. Download the Addon:   
    For now this Addon is not registered on any official or unofficial Kodi repositories yet, hopefully it would be in the future. For now the way to install this Addon is to install it from a zip file.  
-   Go to this page https://github.com/BrosMakingSoftware/Kodi-Launches-Kodi-Addon/releases and download the latest zip file available.
+   Go to this page https://github.com/BrosMakingSoftware/Kodi-Launches-Steam-Addon/releases and download the latest zip file available.
 
 2. Start Kodi and navigate to `Settings -> Add-ons -> Add-on browser -> Install from zip file`, on the file browser look for the zip file you downloaded on the previous step and select it. Installation is going to start and Kodi will show a notification when this is done.   
    **Note:** If preference is not checked, Kodi will ask you to allow installations from zip files as a security measure. Change your preferences to allow installations from zip files and continue with the installation. Also please notice that this options can be displayed on different paths depending of the Skin you are using. The path used above is a generic one that may or may not be on your Skins, but in any case it is not hard to find.
