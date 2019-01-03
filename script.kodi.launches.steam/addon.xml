@@ -4,7 +4,7 @@
 		<import addon="xbmc.python" version="2.25.0"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
-		<provides>executable</provides>
+		<provides>executable, game</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>linux windx osx</platform>
